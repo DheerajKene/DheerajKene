@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [portfoliolink.com](portfoliolink.com)
+- 👨‍💻 All of my projects are available at [portfolio-dk-b20853.netlify.app](portfolio-dk-b20853.netlify.app)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **Kdprakash1712@gmail.com**
 
-- 📄 Know about my experiences [resumelink.com](resumelink.com)
+- 📄 Know about my experiences [[resumelink.com](https://drive.google.com/file/d/1TO-XG6pOlJzRCETxHp4V-METchxhFoRd/view?usp=sharing)]([resumelink.com](https://drive.google.com/file/d/1TO-XG6pOlJzRCETxHp4V-METchxhFoRd/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
