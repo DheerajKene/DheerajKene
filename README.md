@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [portfolio-dk-b20853.netlify.app](portfolio-dk-b20853.netlify.app)
+- 👨‍💻 All of my projects are available at []([portfolio-dk-b20853.netlify.app](https://portfolio-dk-b20853.netlify.app/))
 
 - 💬 Ask me about **React**
 
