@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajkene&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajkene" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [[Portfolio.com](portfoliodheeraj-em0vztfei-dheerajs-projects-e52e973c.vercel.app)]
+- 👨‍💻 All of my projects are available at <a href="portfoliodheeraj-em0vztfei-dheerajs-projects-e52e973c.vercel.app" alt="Portfolio"/>Portfolio</a>
 
 - 💬 Ask me about **React**
 
