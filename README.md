@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [[resumelink.com](portfoliodheeraj-em0vztfei-dheerajs-projects-e52e973c.vercel.app)]([resumelink.com](portfoliodheeraj-em0vztfei-dheerajs-projects-e52e973c.vercel.app))
+- 👨‍💻 All of my projects are available at [[Portfolio](portfoliodheeraj-em0vztfei-dheerajs-projects-e52e973c.vercel.app)]([Portfolio](portfoliodheeraj-em0vztfei-dheerajs-projects-e52e973c.vercel.app))
 
 - 💬 Ask me about **React**
 
