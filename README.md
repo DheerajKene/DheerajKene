@@ -1,7 +1,7 @@
 [![MasterHead](https://images.search.yahoo.com/search/images;_ylt=Awrjedcl6KxlElQ4xjuJzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgNtY2FmZWUEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDclBZS3lwcktRc0t4QVo4Z2Q0c3NXQQRuX3JzbHQDMARuX3N1Z2cDMARvcmlnaW4DaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzQ1BHF1ZXJ5A2FuaW1hdGVkJTIwZnJvbnRlbmQlMjBkZXZlbG9wZXIlMjBpbWFnZXMlMjBmb3IlMjBiYW5uZXIEdF9zdG1wAzE3MDU4MzA1MTM-?p=animated+frontend+developer+images+for+banner&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E211US714G0#id=52&iurl=https%3A%2F%2Fplopdo.com%2Fwp-content%2Fuploads%2F2021%2F07%2FScreenshot-1-1210x642.png%3Fcrop%3D1&action=click)](http://dheerajkene.io)
 
 <h1 align="center">Hi 👋, I'm Dheeraj Kene</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate FullStack Web Developer</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=""/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajkene&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajkene" /> </p>
