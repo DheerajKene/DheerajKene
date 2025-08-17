@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at <a href="portfoliodheeraj-em0vztfei-dheerajs-projects-e52e973c.vercel.app" alt="Portfolio"/>Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="[portfoliodheeraj-em0vztfei-dheerajs-projects-e52e973c.vercel.app](https://dheeraj-portfolio-31-07-25.vercel.app/)" alt="Portfolio"/>Portfolio</a>
 
 - 💬 Ask me about **React**
 
